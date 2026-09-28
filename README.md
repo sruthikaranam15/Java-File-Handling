@@ -79,9 +79,6 @@ File copied successfully.
 - `IOException`
 - Exception Handling
 
-## 👩‍💻 Author
-
-**Karnam Sruthi**
 
 ## 📌 Repository
 
